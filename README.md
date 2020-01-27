@@ -13,6 +13,9 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
 Since then, it got a full re-write of the styles and many additional cool features.
 The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
 
+
+I've added a button feature to the al-folio theme. Buttons were taken from the [academic-portfolio](https://ys1998.github.io/academic-portfolio/projects/) theme. Otherwise the same thing. Check out my [site](https://alexanderhay2020.github.io/) to see the buttons being used with the al-folio theme.
+
 ## Getting started
 
 For more about how to use Jekyll, check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/).
