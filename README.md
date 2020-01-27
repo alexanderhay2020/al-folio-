@@ -1,20 +1,20 @@
-# al-folio
+# al-folio*
 
-[![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
-[![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
-[![gitter](https://badges.gitter.im/alshedivat/al-folio.svg)](https://gitter.im/alshedivat/al-folio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![build status](https://travis-ci.org/alshedivat/al-folio*.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio*)
+[![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio*/)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/alshedivat/al-folio*/blob/master/LICENSE)
+[![gitter](https://badges.gitter.im/alshedivat/al-folio*.svg)](https://gitter.im/alshedivat/al-folio*?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics.
 
-[![Screenshot](assets/img/full-screenshot.png)](https://alshedivat.github.io/al-folio/)
+[![Screenshot](assets/img/full-screenshot.png)](https://alshedivat.github.io/al-folio*/)
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
+Originally, **al-folio*** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
-The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
+The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio*/).
 
 
-I've added a button feature to the al-folio theme. Buttons were taken from the [academic-portfolio](https://ys1998.github.io/academic-portfolio/projects/) theme. Otherwise the same thing. Check out my [site](https://alexanderhay2020.github.io/) to see the buttons being used with the al-folio theme.
+I've added a button feature to the al-folio* theme. Buttons were taken from the [academic-portfolio](https://ys1998.github.io/academic-portfolio/projects/) theme. Otherwise the same thing. Check out my [site](https://alexanderhay2020.github.io/) to see the buttons being used with the al-folio* theme.
 
 ## Getting started
 
@@ -23,7 +23,7 @@ Why Jekyll? Read this [blog post](https://karpathy.github.io/2014/07/01/switchin
 
 ### Installation
 
-Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), first fork the theme from `github.com:alshedivat/al-folio` to `github.com:<your-username>/<your-repo-name>` and do the following:
+Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), first fork the theme from `github.com:alshedivat/al-folio*` to `github.com:<your-username>/<your-repo-name>` and do the following:
 
 ```bash
 $ git clone git@github.com:<your-username>/<your-repo-name>.git
@@ -86,7 +86,7 @@ Make photos 1/3, 2/3, or full width.
 Easily create beautiful grids within your blog posts and projects pages:
 
 <p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
+  <a href="https://alshedivat.github.io/al-folio*/projects/1_project/">
     <img src="assets/img/photos-screenshot.png" width="75%">
   </a>
 </p>
@@ -96,13 +96,13 @@ This theme implements Jekyll's built in code syntax highlighting with Pygments.
 Just use the liquid tags `{% highlight python %}` and `{% endhighlight %}` to delineate your code:
 
 <p align="center">
-  <a href="https://alshedivat.github.io/al-folio/blog/2015/code/">
+  <a href="https://alshedivat.github.io/al-folio*/blog/2015/code/">
     <img src="assets/img/code-screenshot.png" width="75%">
   </a>
 </p>
 
 #### Social media previews
-The al-folio theme optionally supports preview images on social media.
+The al-folio* theme optionally supports preview images on social media.
 To enable this functionality you will need to set `serve_og_meta` to `true` in
 your `_config.yml`. Once you have done so, all your site's pages will include
 Open Graph data in the HTML head element.
