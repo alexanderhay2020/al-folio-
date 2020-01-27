@@ -9,12 +9,12 @@ A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics.
 
 [![Screenshot](assets/img/full-screenshot.png)](https://alshedivat.github.io/al-folio*/)
 
-Originally, **al-folio*** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
+Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
 The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio*/).
 
 
-I've added a button feature to the al-folio* theme. Buttons were taken from the [academic-portfolio](https://ys1998.github.io/academic-portfolio/projects/) theme. Otherwise the same thing. Check out my [site](https://alexanderhay2020.github.io/) to see the buttons being used with the al-folio* theme.
+I've added a button feature to the al-folio theme, now al-folio*. Buttons were taken from the [academic-portfolio](https://ys1998.github.io/academic-portfolio/projects/) theme. Otherwise the same thing. Check out my [site](https://alexanderhay2020.github.io/) to see the buttons being used with the al-folio* theme.
 
 ## Getting started
 
