@@ -25,6 +25,25 @@ body {
   -webkit-box-sizing: border-box;
 }
 
+/**
+ * Color button
+ */
+.color-button {
+    background: $blue-color-dark;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    display: inline-block;
+    padding: 0px 10px;
+    margin: 0px 5px 0 0;
+    cursor: pointer;
+    &:hover {
+        background: $blue-color-light;
+    }
+}
+
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
     max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
